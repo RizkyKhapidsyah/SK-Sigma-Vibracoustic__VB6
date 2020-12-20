@@ -1,0 +1,8 @@
+Please note that all the files should be copied on C drive of the computer , with an ODBC connectivity DSN Name as PMS is to be created first to run the same .
+
+
+The database Name is DBPMS.mdb
+
+There is an error in the calculation of the salary fro the month of 02 -2002.
+
+Due to unknown Function Problem .
